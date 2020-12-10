@@ -15,6 +15,7 @@ https://github.com/blahblahbloopster/mindustry-client-v6
 Here is some information on the current status of soome of my projects
 
 *** dotfiles
+[[https://github.com/Mewtastic/dotfiles/blob/main/screenshots/desktop.png]]
 
 *** Project Ivory Tower
 I've started development and research. The bulk of the project will be sarted next year.
