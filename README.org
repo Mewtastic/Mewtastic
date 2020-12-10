@@ -13,6 +13,7 @@ I'm a self taught student. I mainly focus on programming games, although I do us
 Here is some information on the current status of some of my projects
 
 *** dotfiles
+This is the current appearance of my Linux desktop
 [[https://github.com/Mewtastic/Mewtastic/blob/main/screenshots/desktop.png]]
 
 *** Project Ivory Tower
