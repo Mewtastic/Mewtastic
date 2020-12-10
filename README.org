@@ -1,1 +1,23 @@
 * Mewtastic
+I'm a self taught student. I mainly focus on programming games, although I do use Linux and do a lot of scripting and contributions focused on Linux. When it comes to making video games most of my interest isn't in programming them, but designing them. Especially designing game mechanics and general game play. I'm always looking for someone willing to help me out and contribute to my projects.
+
+** Future projects
+- Project Ivory Tower Game
+- Project Soul Game
+- Contributing to blahblabloopster's Sudo-v2 bot for discord
+https://github.com/blahblahbloopster/sudo-v2
+- Contributing to blahblahbloopster's Mindustry client
+https://github.com/blahblahbloopster/mindustry-client-v6
+- Continue work on my dotfiles
+- Finish 4-bullet-gun
+
+** Project status
+Here is some information on the current status of soome of my projects
+
+*** dotfiles
+
+*** Project Ivory Tower
+I've started development and research. The bulk of the project will be sarted next year.
+
+*** Project Soul
+ This game won't be started until Summer of 2021
