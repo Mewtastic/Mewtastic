@@ -22,10 +22,10 @@ I've started development and research. The bulk of the project will be started n
  This game won't be started until Summer of 2021
 
 ** Links to repositories
-https://github.com/Mewtastic/dotfiles
-https://github.com/Mewtastic/ivory-tower-game
-https://github.com/Mewtastic/4-bullet-gun
+- https://github.com/Mewtastic/dotfiles
+- https://github.com/Mewtastic/ivory-tower-game
+- https://github.com/Mewtastic/4-bullet-gun
 
 *** Blahblahbloopster's repositories
-https://github.com/blahblahbloopster/sudo-v2
-https://github.com/blahblahbloopster/mindustry-client-v6
+- https://github.com/blahblahbloopster/sudo-v2
+- https://github.com/blahblahbloopster/mindustry-client-v6
