@@ -17,7 +17,7 @@ This is the current appearance of my Linux desktop
 [[https://github.com/Mewtastic/Mewtastic/blob/main/screenshots/desktop.png]]
 
 *** Project Ivory Tower
-I've started development and research. The bulk of the project will be started next year.
+Project begins development January 27th.
 
 *** Project Soul
  This game won't be started until Summer of 2021
